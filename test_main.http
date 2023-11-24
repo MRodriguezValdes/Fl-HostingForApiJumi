@@ -1,11 +1,1 @@
-# Test your FastAPI endpoints
 
-GET https://fl-hostingforapijumi-dev-phak.2.us-1.fl0.io
-Accept: application/json
-
-###
-
-GET https://fl-hostingforapijumi-dev-phak.2.us-1.fl0.io/hello/User
-Accept: application/json
-
-###
